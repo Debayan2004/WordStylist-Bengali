@@ -27,7 +27,7 @@ The original WordStylist README and license are retained under WordStylist/.
 
 ## Dataset
 
-Dataset images are not included. Check the applicable dataset terms and obtain permission before redistributing dataset material.
+Dataset link: https://drive.google.com/drive/folders/1KESBubW4N_qTDtOJUUHAPyeTFXzn-q-0?usp=sharing
 
 ## Checkpoints
 
